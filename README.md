@@ -250,6 +250,8 @@ public class WebApiApplication : System.Web.HttpApplication
 Changelog
 -------------------------------------
 
+### Mongo2Go 2.2.13, June 10 2019
+* Made MongoDbDefaults.TestStartPort to be public property, so that it could be configured
 
 ### Mongo2Go 2.2.12, June 10 2019
 * updated Mongodb binaries to 4.0.10. Updated Mongodb C# driver to 2.8.1
